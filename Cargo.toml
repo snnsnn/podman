@@ -1,0 +1,9 @@
+[package]
+name = "podman"
+version = "0.0.1"
+authors = ["snnsnn <sinan38tr@gmail.com>"]
+description = "Reserving this crate name for podman related API.\nWilling to transfer ownership to podman or containers team.\n"
+edition = "2018"
+license = "MIT"
+
+[dependencies]
